@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Matachin Games</title>
- <link href="matachingames.github.io/announcements.xml" rel="self"/>
+ <link href="matachingames.github.io/feed.xml" rel="self"/>
  <link href="matachingames.github.io/"/>
- <updated>2020-05-28T22:11:15-04:00</updated>
- <id>matachingames.github.io</id>
+ <updated>2020-05-28T21:51:29-04:00</updated>
+ <id>matachingames.github.io/</id>
  <author>
    <name>Jae</name>
    <email>matachingames@disroot.org</email>
