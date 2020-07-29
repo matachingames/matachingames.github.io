@@ -2,6 +2,15 @@
   
         
     <url>
+      <loc>matachingames.github.io/cazadores-v03/</loc>
+      <lastmod>2020-07-28T12:30:00-04:00</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
       <loc>matachingames.github.io/starting-off/</loc>
       <lastmod>2020-05-27T02:30:00-04:00</lastmod>
       <changefreq>weekly</changefreq>
@@ -14,7 +23,7 @@
   <url>
     <loc>matachingames.github.io/404.html</loc>
     
-      <lastmod>2020-07-17T15:25:00-04:00</lastmod>
+      <lastmod>2020-07-28T18:04:39-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
@@ -23,7 +32,7 @@
   <url>
     <loc>matachingames.github.io/about/</loc>
     
-      <lastmod>2020-07-17T15:25:00-04:00</lastmod>
+      <lastmod>2020-07-28T18:04:39-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
@@ -32,7 +41,7 @@
   <url>
     <loc>matachingames.github.io/announcements.xml</loc>
     
-      <lastmod>2020-07-17T15:25:00-04:00</lastmod>
+      <lastmod>2020-07-28T18:04:39-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
@@ -41,7 +50,7 @@
   <url>
     <loc>matachingames.github.io/archive/</loc>
     
-      <lastmod>2020-07-17T15:25:00-04:00</lastmod>
+      <lastmod>2020-07-28T18:04:39-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
@@ -50,7 +59,7 @@
   <url>
     <loc>matachingames.github.io/categories/</loc>
     
-      <lastmod>2020-07-17T15:25:00-04:00</lastmod>
+      <lastmod>2020-07-28T18:04:39-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
@@ -59,7 +68,7 @@
   <url>
     <loc>matachingames.github.io/feed.xml</loc>
     
-      <lastmod>2020-07-17T15:25:00-04:00</lastmod>
+      <lastmod>2020-07-28T18:04:39-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
@@ -68,7 +77,7 @@
   <url>
     <loc>matachingames.github.io/games/</loc>
     
-      <lastmod>2020-07-17T15:25:00-04:00</lastmod>
+      <lastmod>2020-07-28T18:04:39-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
@@ -77,7 +86,7 @@
   <url>
     <loc>matachingames.github.io/</loc>
     
-      <lastmod>2020-07-17T15:25:00-04:00</lastmod>
+      <lastmod>2020-07-28T18:04:39-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
@@ -86,7 +95,7 @@
   <url>
     <loc>matachingames.github.io/sitemap.xml</loc>
     
-      <lastmod>2020-07-17T15:25:00-04:00</lastmod>
+      <lastmod>2020-07-28T18:04:39-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
@@ -95,7 +104,7 @@
   <url>
     <loc>matachingames.github.io/styles.css</loc>
     
-      <lastmod>2020-07-17T15:25:00-04:00</lastmod>
+      <lastmod>2020-07-28T18:04:39-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
@@ -104,7 +113,16 @@
   <url>
     <loc>matachingames.github.io/tags/</loc>
     
-      <lastmod>2020-07-17T15:25:00-04:00</lastmod>
+      <lastmod>2020-07-28T18:04:39-04:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>matachingames.github.io/page2/</loc>
+    
+      <lastmod>2020-07-28T18:04:39-04:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
