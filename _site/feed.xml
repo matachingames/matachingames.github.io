@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Matachin Games</title>
+ <link href="matachingames.github.io/feed.xml" rel="self"/>
+ <link href="matachingames.github.io/"/>
+ <updated>2020-08-22T17:22:45-04:00</updated>
+ <id>matachingames.github.io/</id>
+ <author>
+   <name>Jae</name>
+   <email>matachingames@disroot.org</email>
+ </author>
+
+ 
+ <entry>
+   <title>Cazadores v.04 - Balance updates and new covers!</title>
+   <link href="matachingames.github.io/cazadores-v04/"/>
+   <updated>2020-07-28T12:30:00-04:00</updated>
+   <id>matachingames.github.io/cazadores-v04</id>
+   <content type="html">&lt;h1 id=&quot;layout-progress&quot;&gt;Layout Progress&lt;/h1&gt;
+&lt;p&gt;Since the last update, I’ve focused mostly on learning enough of Affinity Publisher to put together a version of Cazadores that looks a little better and is easier to use.&lt;/p&gt;
+
+&lt;p&gt;So far, I’ve made some progress in laying out &lt;em&gt;The Hunter&lt;/em&gt; book and it looks infinitely better for it. Additionally, I’ve thrown together some better looking covers and will be using something along these lines for the rest of the releases.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;center&gt;&lt;img src=&quot;/assets/Sample Covers Screenshot v.04.png&quot; alt=&quot;Midnight Light&quot; style=&quot;width:100%&quot; /&gt;&lt;/center&gt;
+  &lt;figcaption&gt; The latest attempt at covers for The Hunter and The Adversary&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h1 id=&quot;version-04&quot;&gt;Version .04&lt;/h1&gt;
+&lt;p&gt;I’ve also gotten a chance to play a few more games and better playtest the Adversaries currently in the game (and thanks to feedback I’ve received from others).&lt;/p&gt;
+
+&lt;p&gt;In turn, the latest version of Cazadores has made a few balance changes across the board and codified a few things. As always, the Changelog in the docs are more detailed but these are the highlights:&lt;/p&gt;
+
+&lt;h3 id=&quot;general-changes&quot;&gt;General Changes&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Overlapping&lt;/strong&gt; has been changed so that Friendly Models can pass each other while moving.&lt;/li&gt;
+  &lt;li&gt;A &lt;strong&gt;Pass Action&lt;/strong&gt; has been added to codify what happens when a Model passes on their Turn.&lt;/li&gt;
+  &lt;li&gt;The &lt;strong&gt;Cover Ground Action&lt;/strong&gt; has been made a little less strong in comparison to regular Move.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Objective-specific Gear&lt;/strong&gt; has been made less scarce to make accomplishing Objectives easier.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;adversary-changes&quot;&gt;Adversary Changes&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;All Adversary Actions with +RNG have been reduced by 1 to make  it easier to manuever around them during games.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The Praetorians&lt;/strong&gt;: -1 ATK and -1 SPD, along with some detailed rules for their deployment.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Creatured Wreathed in Light&lt;/strong&gt;: -1 SPD.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Neonate Wurm&lt;/strong&gt;: -1 SPD.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;whats-next&quot;&gt;What’s Next&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Introduction of versions with good layout (hopefully!)&lt;/li&gt;
+  &lt;li&gt;Addition of Abilities for use in long-term play&lt;/li&gt;
+  &lt;li&gt;Rules for Scars!
+    &lt;ul&gt;
+      &lt;li&gt;I’m excited about what I have so far for these. When defeated, your Models are more likely to walk away, but over time as Scars accumulate they are more likely to die if they are defeated during the Hunt. It should add a sense of escalation and your hunters being worn down by their defeats rather than an quick and ignominious death.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;New Model Sheets
+    &lt;ul&gt;
+      &lt;li&gt;I’m really not happy with the current set available. I have some ideas as to where to go with them but haven’t had a chance to try that out yet. Now that there’s a more distinct style to the game as well, I’m hoping they’ll be nicer to look at.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Download the game at &lt;a href=&quot;https://matachingames.itch.io/cazadores&quot;&gt;matachingames.itch.io/cazadores&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Send me an email at &lt;a href=&quot;mailto:matachingames@disroot.org&quot;&gt;matachingames@disroot.org&lt;/a&gt; or on Twitter at &lt;a href=&quot;https://twitter.com/jae_noza&quot;&gt;jae_noza&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cheers,&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jae&lt;/strong&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cazadores v.03 - A real update!</title>
+   <link href="matachingames.github.io/cazadores-v03/"/>
+   <updated>2020-07-28T12:30:00-04:00</updated>
+   <id>matachingames.github.io/cazadores-v03</id>
+   <content type="html">&lt;p&gt;Almost two months to the day, here is the first &lt;em&gt;real&lt;/em&gt; update to Cazadores. You can download the latest version at &lt;a href=&quot;https://matachingames.itch.io/cazadores&quot;&gt;matachingames.itch.io/cazadores&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Since the alpha was first released, I’ve received quite a bit of encouragement and great feedback, much of which has been implemented in this version, including rebalancing various Actions, adjustments to Weapons, etc.&lt;/p&gt;
+
+&lt;p&gt;The PDFs for the game have Changelogs that outline all of the changes but I wanted to highlight a couple of the major changes/updates here.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-highlights-of-v03&quot;&gt;The Highlights of v.03&lt;/h1&gt;
+&lt;h2 id=&quot;new-adversaries&quot;&gt;New Adversaries&lt;/h2&gt;
+&lt;p&gt;The game now includes 4 new Adversaries: An Accursed Construct, A Creature Wreathed in Light, The Constant Emperor’s Praetorians, and A Neonate Wyrm.&lt;/p&gt;
+
+&lt;p&gt;These are all fairly distinct and try to push the framework for what Adversaries can do in a few ways so, hopefully, they serve as inspiration for others to create their own.&lt;/p&gt;
+
+&lt;p&gt;I’m very interested in any feedback others might have during play since these haven’t been tested as many times as the Wandering Son, largely in part because there are too many permutations for me to test now that there are also rules for Objectives!&lt;/p&gt;
+
+&lt;h2 id=&quot;objective-based-play&quot;&gt;Objective-based Play&lt;/h2&gt;
+&lt;p&gt;One of the things that didn’t make it into the early draft but has always been in the works is Objectives. Although it is fun to face off against the Adversaries head on, I tend to enjoy miniature games that also reward the player for accomplishing goals other than wiping the enemy off the board.&lt;/p&gt;
+
+&lt;p&gt;Therefore, this version of the game comes with 10 Objectives which is probably as many as will be in the game for a long time. They are largely straightforward, can be randomized by just rolling a d10 before play, and increase the replayability of even the small stock of Adversaries quite a bit!&lt;/p&gt;
+
+&lt;p&gt;In some ways, I see Objectives as almost a “default” part of playing Cazadores but they’re under &lt;em&gt;Narrative Rules&lt;/em&gt; right now so you can scaffold them into your games. However, you can see that taking on an Objective is closely tied to how Cazadores earn (or lose) Renown, which makes them a pretty important part of the game and ties well to a new Form Factor I’m trying out.&lt;/p&gt;
+
+&lt;h2 id=&quot;new-form-factor&quot;&gt;New Form Factor&lt;/h2&gt;
+&lt;p&gt;Cazadores, as a project, was partly inspired by the great little &lt;a href=&quot;https://www.wargamevault.com/product/307469/Planet-28--Simple-narrative-skirmish-rules&quot;&gt;Planet28&lt;/a&gt; ruleset from &lt;a href=&quot;https://mammoth-miniatures.onlineweb.shop/&quot;&gt;Mammoth Miniatures&lt;/a&gt;. One of my favourite things about that game is that it’s just a Zine (5.5” x 8.5”). Frankly, I no longer have the patience for big thick rulebooks so, off the bat, I decided Cazadores should try to follow that form factor for ease of use&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. It means you can just print the game on a bunch of Letter-sized paper and have your own physical version.&lt;/p&gt;
+
+&lt;p&gt;Even though the core rules for Cazadores are simple enough to fit well within the 40ish page limit of a Zine, the addition of rules for campaigns, more adversaries, etc. will just take up more space than what’s available…and that’s all before hopefully sprucing up the game’s visuals in the future.&lt;/p&gt;
+
+&lt;p&gt;To address this, Cazadores is going to three “mini” bookets, each in the Zine format:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;The Hunter&lt;/em&gt; will house all of the core rules to the game and will be everything players need to understand how to play and create their Packs.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;The Adversary&lt;/em&gt; collates the rules already in &lt;em&gt;The Hunter&lt;/em&gt; about Adversaries and contains all of the information for the various Foes of the game, including pre-filled Model Sheets you can just print out for use at the table.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;The Eternal Hunt&lt;/em&gt; will have all of the “campaign rules” and other bits for advancement, customization, and linking the game together. It’s possible that the &lt;em&gt;Narrative Rules&lt;/em&gt; chapter that’s in &lt;em&gt;The Hunter&lt;/em&gt; right now will eventually get moved here.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ideally, these books will get used during different “phases” of play &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. That is, when you create your Pack and during actual play, you’ll be using &lt;em&gt;The Hunter&lt;/em&gt;. When you pick an &lt;em&gt;Adversary&lt;/em&gt;, you just print out the relevant sheet and put that book away. You’ll use the &lt;em&gt;The Eternal Hunt&lt;/em&gt; mostly before the game, if you’re setting up for an Objective or using &lt;em&gt;Scouting &amp;amp; Preparation&lt;/em&gt; rules, or after the game to play out the consequences.&lt;/p&gt;
+
+&lt;p&gt;I’m not sure how well this will work out, or what people think about it, so I’m open to any feedback on that as on everything else!&lt;/p&gt;
+
+&lt;h1 id=&quot;whats-next-v035-or-v040&quot;&gt;What’s Next (v.035 or v.040?)&lt;/h1&gt;
+&lt;p&gt;For the next version, I’m focusing on a couple of things:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Introduction of Abilities for Cazadores and how to get them&lt;/li&gt;
+  &lt;li&gt;The basics of advancement and campaigns&lt;/li&gt;
+  &lt;li&gt;More Weapons, Gear, Adversaries, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;However, these are all likely to take a backseat to a layout update. The game has been drafted up in Google Docs and that comes with a few limitations on what it can look like. I want try my hand at something at least marginally more pleasing to the eye. Most likely those versions of the game books will come at some minor cost (5-10$ for all books) to help support my continued work on the game (I recently purchsed Affinity Designer, for example).&lt;/p&gt;
+
+&lt;p&gt;Some people have already been kind enough to pay some money for the game even though it’s set to Pay-What-You-Want. The Google Doc/Non-layout version of the game will remain PWYW and &lt;strong&gt;I will continue to update it along the other version&lt;/strong&gt; for the foreseeable future. I want the game to be accessible, whether someone needs a plain text version for readability or because they cannot afford to pay for the game.&lt;/p&gt;
+
+&lt;p&gt;I’m also going to explore &lt;a href=&quot;http://berdan.ca/andy/community-accessibility-on-itchio&quot;&gt;“Community Copies”&lt;/a&gt; for the Layout version on Itch. I’ve found it really rewarding myself that when I’ve purchased things on Itch, it’s made a few copies of the game available to others.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;Anyway, I hope you give the game a shot.&lt;/p&gt;
+
+&lt;p&gt;Send me a message if you do at &lt;a href=&quot;mailto:matachingames@disroot.org&quot;&gt;matachingames@disroot.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jae&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;The fantastic ZineQuest stuff over on &lt;a href=&quot;https://www.kickstarter.com/zine-quest&quot;&gt;Kickstarter&lt;/a&gt; has really shown how neat this can be, although mostly in the realm of role-playing games. One of my favorites games in this form factor is the &lt;a href=&quot;https://tuesdayknightgames.itch.io/mothership-players-survival-guide&quot;&gt;Mothership RPG&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#10548;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;You shouldn’t be juggling all three books at once during the actual game, my goals is to make it so you don’t have one giant book at the table taking up space and attention. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#10548;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Starting off...</title>
+   <link href="matachingames.github.io/starting-off/"/>
+   <updated>2020-05-27T02:30:00-04:00</updated>
+   <id>matachingames.github.io/starting-off</id>
+   <content type="html">&lt;p&gt;So…welcome to the blog.&lt;/p&gt;
+
+&lt;p&gt;This is a space for me (&lt;a href=&quot;https://twitter.com/Jae_Noza&quot;&gt;@Jae_Noza&lt;/a&gt;) to post about tabletop games.&lt;/p&gt;
+
+&lt;p&gt;Mostly, this is here to try and force a little accountability for all of the various game designs I’m working on.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Matachin Games&lt;/em&gt; is not really a thing, at least not yet, but it has a name for the same reason that this blog exists: so that there’s some record out there in the ether for me to point to.&lt;/p&gt;
+
+&lt;p&gt;I plan to spit out my notes, ideas, and thoughts about my games here as I work on them. There are also quite a few other games out there that don’t get the attention they deserve so I hope to write little bits about them here too.&lt;/p&gt;
+
+&lt;p&gt;Right now, all you can do is head over to the &lt;a href=&quot;/games/&quot;&gt;Games&lt;/a&gt; section for an overview of the main projects I’m working on now. They’re all in different states of development and disarray but they’re there (or will be)!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
