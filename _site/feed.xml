@@ -4,7 +4,7 @@
  <title>Matachin Games</title>
  <link href="matachingames.github.io/feed.xml" rel="self"/>
  <link href="matachingames.github.io/"/>
- <updated>2020-08-22T17:22:45-04:00</updated>
+ <updated>2021-03-30T09:27:03-04:00</updated>
  <id>matachingames.github.io/</id>
  <author>
    <name>Jae</name>
@@ -17,7 +17,9 @@
    <link href="matachingames.github.io/cazadores-v04/"/>
    <updated>2020-07-28T12:30:00-04:00</updated>
    <id>matachingames.github.io/cazadores-v04</id>
-   <content type="html">&lt;h1 id=&quot;layout-progress&quot;&gt;Layout Progress&lt;/h1&gt;
+   <content type="html">&lt;p&gt;test change&lt;/p&gt;
+
+&lt;h1 id=&quot;layout-progress&quot;&gt;Layout Progress&lt;/h1&gt;
 &lt;p&gt;Since the last update, I’ve focused mostly on learning enough of Affinity Publisher to put together a version of Cazadores that looks a little better and is easier to use.&lt;/p&gt;
 
 &lt;p&gt;So far, I’ve made some progress in laying out &lt;em&gt;The Hunter&lt;/em&gt; book and it looks infinitely better for it. Additionally, I’ve thrown together some better looking covers and will be using something along these lines for the rest of the releases.&lt;/p&gt;
@@ -103,7 +105,7 @@
 &lt;p&gt;In some ways, I see Objectives as almost a “default” part of playing Cazadores but they’re under &lt;em&gt;Narrative Rules&lt;/em&gt; right now so you can scaffold them into your games. However, you can see that taking on an Objective is closely tied to how Cazadores earn (or lose) Renown, which makes them a pretty important part of the game and ties well to a new Form Factor I’m trying out.&lt;/p&gt;
 
 &lt;h2 id=&quot;new-form-factor&quot;&gt;New Form Factor&lt;/h2&gt;
-&lt;p&gt;Cazadores, as a project, was partly inspired by the great little &lt;a href=&quot;https://www.wargamevault.com/product/307469/Planet-28--Simple-narrative-skirmish-rules&quot;&gt;Planet28&lt;/a&gt; ruleset from &lt;a href=&quot;https://mammoth-miniatures.onlineweb.shop/&quot;&gt;Mammoth Miniatures&lt;/a&gt;. One of my favourite things about that game is that it’s just a Zine (5.5” x 8.5”). Frankly, I no longer have the patience for big thick rulebooks so, off the bat, I decided Cazadores should try to follow that form factor for ease of use&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. It means you can just print the game on a bunch of Letter-sized paper and have your own physical version.&lt;/p&gt;
+&lt;p&gt;Cazadores, as a project, was partly inspired by the great little &lt;a href=&quot;https://www.wargamevault.com/product/307469/Planet-28--Simple-narrative-skirmish-rules&quot;&gt;Planet28&lt;/a&gt; ruleset from &lt;a href=&quot;https://mammoth-miniatures.onlineweb.shop/&quot;&gt;Mammoth Miniatures&lt;/a&gt;. One of my favourite things about that game is that it’s just a Zine (5.5” x 8.5”). Frankly, I no longer have the patience for big thick rulebooks so, off the bat, I decided Cazadores should try to follow that form factor for ease of use&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. It means you can just print the game on a bunch of Letter-sized paper and have your own physical version.&lt;/p&gt;
 
 &lt;p&gt;Even though the core rules for Cazadores are simple enough to fit well within the 40ish page limit of a Zine, the addition of rules for campaigns, more adversaries, etc. will just take up more space than what’s available…and that’s all before hopefully sprucing up the game’s visuals in the future.&lt;/p&gt;
 
@@ -114,7 +116,7 @@
   &lt;li&gt;&lt;em&gt;The Eternal Hunt&lt;/em&gt; will have all of the “campaign rules” and other bits for advancement, customization, and linking the game together. It’s possible that the &lt;em&gt;Narrative Rules&lt;/em&gt; chapter that’s in &lt;em&gt;The Hunter&lt;/em&gt; right now will eventually get moved here.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Ideally, these books will get used during different “phases” of play &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. That is, when you create your Pack and during actual play, you’ll be using &lt;em&gt;The Hunter&lt;/em&gt;. When you pick an &lt;em&gt;Adversary&lt;/em&gt;, you just print out the relevant sheet and put that book away. You’ll use the &lt;em&gt;The Eternal Hunt&lt;/em&gt; mostly before the game, if you’re setting up for an Objective or using &lt;em&gt;Scouting &amp;amp; Preparation&lt;/em&gt; rules, or after the game to play out the consequences.&lt;/p&gt;
+&lt;p&gt;Ideally, these books will get used during different “phases” of play &lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. That is, when you create your Pack and during actual play, you’ll be using &lt;em&gt;The Hunter&lt;/em&gt;. When you pick an &lt;em&gt;Adversary&lt;/em&gt;, you just print out the relevant sheet and put that book away. You’ll use the &lt;em&gt;The Eternal Hunt&lt;/em&gt; mostly before the game, if you’re setting up for an Objective or using &lt;em&gt;Scouting &amp;amp; Preparation&lt;/em&gt; rules, or after the game to play out the consequences.&lt;/p&gt;
 
 &lt;p&gt;I’m not sure how well this will work out, or what people think about it, so I’m open to any feedback on that as on everything else!&lt;/p&gt;
 
