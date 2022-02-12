@@ -5,7 +5,7 @@ title: Games
 ---
 
 # Cazadores
-<p class="blue"><span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span><small><b>Download</b> and get updates on the latest version of Cazadores on <a href="https://matachingames.itch.io/cazadores">itch.io.</a></small></p>
+<p class="message"><span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span><small><b>Download</b> and get updates on the latest version of Cazadores on <a href="https://matachingames.itch.io/cazadores">itch.io</a> or check out the <a href="http://matachin.games/cazadores-living-rules/">Living Rules</a> site!</small></p>
 
 ### A Cooperative Miniatures Game of Daring Hunts
 In *Cazadores*, each player creates a single Cazador, a brave and formidable hunter hellbent on hunting and defeating fearsome mythical beasts, twisted beings, uncanny horrors, and other terrifying Adversaries. Cazadores are joined by a rare few Companions willing to follow them into the wilderness, through the desert, across mountains, into the lairs of monstrous things, and the darkness between the planes.
