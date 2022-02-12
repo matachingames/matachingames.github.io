@@ -4,7 +4,7 @@
  <title>Matachin Games</title>
  <link href="matachingames.github.io/feed.xml" rel="self"/>
  <link href="matachingames.github.io/"/>
- <updated>2021-03-30T09:27:03-04:00</updated>
+ <updated>2022-02-11T19:07:13-05:00</updated>
  <id>matachingames.github.io/</id>
  <author>
    <name>Jae</name>
@@ -13,13 +13,35 @@
 
  
  <entry>
+   <title>Cazadores in 28 Mag and Living Rules!</title>
+   <link href="matachingames.github.io/cazadores-in-28mag/"/>
+   <updated>2022-02-11T12:00:00-05:00</updated>
+   <id>matachingames.github.io/cazadores-in-28mag</id>
+   <content type="html">&lt;p&gt;Over the last couple of weeks I’ve seen a great uptick in downloads and sales (thank you!) for Cazadores on &lt;a href=&quot;https://matachingames.itch.io/cazadores&quot;&gt;itch&lt;/a&gt;. I couldn’t really figure out what was going on until I noticed that the 4th volume of &lt;a href=&quot;https://28-mag.com/&quot;&gt;28 Magazine&lt;/a&gt; was out!&lt;/p&gt;
+
+&lt;p&gt;28 is an awesome digital magazine focused on a dark and grimy aesthetic for miniatures and wargaming (sometimes referred to as the Blanchitsu style). The magazine always has great articles and pictures of minis that are out of this world. I really recommend you check it out!&lt;/p&gt;
+
+&lt;p&gt;A few months ago, I answered a few questions about the design for Cazadores and they’ve written a bit on it alongside a couple of other great games: &lt;a href=&quot;https://ospreypublishing.com/frostgrave?___store=osprey_rst&quot;&gt;Frostgrave&lt;/a&gt; and &lt;a href=&quot;https://gardensofhecate.com/&quot;&gt;Fabula&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;living-rules-and-future-plans&quot;&gt;Living Rules and Future Plans&lt;/h1&gt;
+&lt;p&gt;Beyond that, I haven’t put out any updates to Cazadores because things got really busy as I finished my dissertation and started a new position.  However, I do have plans to put out some additional updates come the summer. I’ve been working here and there on rules for advancement and tying multiple games into a campaign. More Adversaries are also on the way.&lt;/p&gt;
+
+&lt;p&gt;At work, I use language called R for analyses, and I’ve learned about &lt;a href=&quot;https://bookdown.org/&quot;&gt;Bookdown&lt;/a&gt;, a package for outputting &lt;a href=&quot;https://www.markdownguide.org/&quot;&gt;Markdown&lt;/a&gt; text out as an online book using R! I had already written most of Cazadores in Markdown so at some point I threw it all as “Living Rules” document which you can check out here: &lt;a href=&quot;http://matachin.games/cazadores-living-rules/&quot;&gt;Cazadores Living Rules&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;On the site, you can change the text and the background but, most importantly, you can search!&lt;/p&gt;
+
+&lt;p&gt;I’m hoping this makes the game a little more accessible. I will still be updating the PDF files on itch, etc., but thought some might find the online version useful.&lt;/p&gt;
+
+&lt;p&gt;Thanks to all of you that have played the game or even just read it out of curiosity. As always, you can find me on Twitter at &lt;a href=&quot;https://twitter.com/jae_noza&quot;&gt;Jae_Noza&lt;/a&gt; or check out the very dead blog I will be reviving at &lt;a href=&quot;https://matachin.games/&quot;&gt;matachin.games&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Cazadores v.04 - Balance updates and new covers!</title>
    <link href="matachingames.github.io/cazadores-v04/"/>
    <updated>2020-07-28T12:30:00-04:00</updated>
    <id>matachingames.github.io/cazadores-v04</id>
-   <content type="html">&lt;p&gt;test change&lt;/p&gt;
-
-&lt;h1 id=&quot;layout-progress&quot;&gt;Layout Progress&lt;/h1&gt;
+   <content type="html">&lt;h1 id=&quot;layout-progress&quot;&gt;Layout Progress&lt;/h1&gt;
 &lt;p&gt;Since the last update, I’ve focused mostly on learning enough of Affinity Publisher to put together a version of Cazadores that looks a little better and is easier to use.&lt;/p&gt;
 
 &lt;p&gt;So far, I’ve made some progress in laying out &lt;em&gt;The Hunter&lt;/em&gt; book and it looks infinitely better for it. Additionally, I’ve thrown together some better looking covers and will be using something along these lines for the rest of the releases.&lt;/p&gt;
