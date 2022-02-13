@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Matachin Games</title>
- <link href="matachingames.github.io/announcements.xml" rel="self"/>
- <link href="matachingames.github.io/"/>
- <updated>2022-02-11T19:33:48-05:00</updated>
- <id>matachingames.github.io</id>
+ <link href="http://localhost:4000/announcements.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-02-13T10:07:15-05:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Jae</name>
    <email>matachingames@disroot.org</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Starting off...</title>
-   <link href="matachingames.github.io/starting-off/"/>
+   <link href="http://localhost:4000/starting-off/"/>
    <updated>2020-05-27T02:30:00-04:00</updated>
-   <id>matachingames.github.io/starting-off</id>
+   <id>http://localhost:4000/starting-off</id>
    <content type="html">&lt;p&gt;So…welcome to the blog.&lt;/p&gt;
 
 &lt;p&gt;This is a space for me (&lt;a href=&quot;https://twitter.com/Jae_Noza&quot;&gt;@Jae_Noza&lt;/a&gt;) to post about tabletop games.&lt;/p&gt;
