@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Matachin Games</title>
- <link href="http://localhost:4000/feed.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2022-02-13T10:07:15-05:00</updated>
- <id>http://localhost:4000/</id>
+ <link href="matachingames.github.io/feed.xml" rel="self"/>
+ <link href="matachingames.github.io/"/>
+ <updated>2022-02-13T10:09:25-05:00</updated>
+ <id>matachingames.github.io/</id>
  <author>
    <name>Jae</name>
    <email>matachingames@disroot.org</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Cazadores in 28 Mag and Living Rules!</title>
-   <link href="http://localhost:4000/cazadores-in-28mag/"/>
+   <link href="matachingames.github.io/cazadores-in-28mag/"/>
    <updated>2022-02-11T12:00:00-05:00</updated>
-   <id>http://localhost:4000/cazadores-in-28mag</id>
+   <id>matachingames.github.io/cazadores-in-28mag</id>
    <content type="html">&lt;p&gt;Over the last couple of weeks I’ve seen a great uptick in downloads and sales (thank you!) for Cazadores on &lt;a href=&quot;https://matachingames.itch.io/cazadores&quot;&gt;itch&lt;/a&gt;. I couldn’t really figure out what was going on until I noticed that the 4th volume of &lt;a href=&quot;https://28-mag.com/&quot;&gt;28 Magazine&lt;/a&gt; was out!&lt;/p&gt;
 
 &lt;p&gt;28 is an awesome digital magazine focused on a dark and grimy aesthetic for miniatures and wargaming (sometimes referred to as the Blanchitsu style). The magazine always has great articles and pictures of minis that are out of this world. I really recommend you check it out!&lt;/p&gt;
@@ -38,9 +38,9 @@
  
  <entry>
    <title>Cazadores v.04 - Balance updates and new covers!</title>
-   <link href="http://localhost:4000/cazadores-v04/"/>
+   <link href="matachingames.github.io/cazadores-v04/"/>
    <updated>2020-07-28T12:30:00-04:00</updated>
-   <id>http://localhost:4000/cazadores-v04</id>
+   <id>matachingames.github.io/cazadores-v04</id>
    <content type="html">&lt;h1 id=&quot;layout-progress&quot;&gt;Layout Progress&lt;/h1&gt;
 &lt;p&gt;Since the last update, I’ve focused mostly on learning enough of Affinity Publisher to put together a version of Cazadores that looks a little better and is easier to use.&lt;/p&gt;
 
@@ -102,9 +102,9 @@
  
  <entry>
    <title>Cazadores v.03 - A real update!</title>
-   <link href="http://localhost:4000/cazadores-v03/"/>
+   <link href="matachingames.github.io/cazadores-v03/"/>
    <updated>2020-07-28T12:30:00-04:00</updated>
-   <id>http://localhost:4000/cazadores-v03</id>
+   <id>matachingames.github.io/cazadores-v03</id>
    <content type="html">&lt;p&gt;Almost two months to the day, here is the first &lt;em&gt;real&lt;/em&gt; update to Cazadores. You can download the latest version at &lt;a href=&quot;https://matachingames.itch.io/cazadores&quot;&gt;matachingames.itch.io/cazadores&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Since the alpha was first released, I’ve received quite a bit of encouragement and great feedback, much of which has been implemented in this version, including rebalancing various Actions, adjustments to Weapons, etc.&lt;/p&gt;
@@ -180,9 +180,9 @@
  
  <entry>
    <title>Starting off...</title>
-   <link href="http://localhost:4000/starting-off/"/>
+   <link href="matachingames.github.io/starting-off/"/>
    <updated>2020-05-27T02:30:00-04:00</updated>
-   <id>http://localhost:4000/starting-off</id>
+   <id>matachingames.github.io/starting-off</id>
    <content type="html">&lt;p&gt;So…welcome to the blog.&lt;/p&gt;
 
 &lt;p&gt;This is a space for me (&lt;a href=&quot;https://twitter.com/Jae_Noza&quot;&gt;@Jae_Noza&lt;/a&gt;) to post about tabletop games.&lt;/p&gt;

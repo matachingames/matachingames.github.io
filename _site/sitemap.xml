@@ -2,7 +2,7 @@
   
         
     <url>
-      <loc>http://localhost:4000/cazadores-in-28mag/</loc>
+      <loc>matachingames.github.io/cazadores-in-28mag/</loc>
       <lastmod>2022-02-11T12:00:00-05:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -11,7 +11,7 @@
   
         
     <url>
-      <loc>http://localhost:4000/cazadores-v04/</loc>
+      <loc>matachingames.github.io/cazadores-v04/</loc>
       <lastmod>2020-07-28T12:30:00-04:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -20,7 +20,7 @@
   
         
     <url>
-      <loc>http://localhost:4000/cazadores-v03/</loc>
+      <loc>matachingames.github.io/cazadores-v03/</loc>
       <lastmod>2020-07-28T12:30:00-04:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -29,7 +29,7 @@
   
         
     <url>
-      <loc>http://localhost:4000/starting-off/</loc>
+      <loc>matachingames.github.io/starting-off/</loc>
       <lastmod>2020-05-27T02:30:00-04:00</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.5</priority>
@@ -39,126 +39,126 @@
   
     
   <url>
-    <loc>http://localhost:4000/404.html</loc>
+    <loc>matachingames.github.io/404.html</loc>
     
-      <lastmod>2022-02-13T10:07:15-05:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/about/</loc>
-    
-      <lastmod>2022-02-13T10:07:15-05:00</lastmod>
+      <lastmod>2022-02-13T10:09:25-05:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>http://localhost:4000/announcements.xml</loc>
+    <loc>matachingames.github.io/about/</loc>
     
-      <lastmod>2022-02-13T10:07:15-05:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/archive/</loc>
-    
-      <lastmod>2022-02-13T10:07:15-05:00</lastmod>
+      <lastmod>2022-02-13T10:09:25-05:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>http://localhost:4000/categories/</loc>
+    <loc>matachingames.github.io/announcements.xml</loc>
     
-      <lastmod>2022-02-13T10:07:15-05:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/feed.xml</loc>
-    
-      <lastmod>2022-02-13T10:07:15-05:00</lastmod>
+      <lastmod>2022-02-13T10:09:25-05:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>http://localhost:4000/games/</loc>
+    <loc>matachingames.github.io/archive/</loc>
     
-      <lastmod>2022-02-13T10:07:15-05:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/</loc>
-    
-      <lastmod>2022-02-13T10:07:15-05:00</lastmod>
+      <lastmod>2022-02-13T10:09:25-05:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>http://localhost:4000/sitemap.xml</loc>
+    <loc>matachingames.github.io/categories/</loc>
     
-      <lastmod>2022-02-13T10:07:15-05:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/styles.css</loc>
-    
-      <lastmod>2022-02-13T10:07:15-05:00</lastmod>
+      <lastmod>2022-02-13T10:09:25-05:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>http://localhost:4000/tags/</loc>
+    <loc>matachingames.github.io/feed.xml</loc>
     
-      <lastmod>2022-02-13T10:07:15-05:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  
-  <url>
-    <loc>http://localhost:4000/page2/</loc>
-    
-      <lastmod>2022-02-13T10:07:15-05:00</lastmod>
+      <lastmod>2022-02-13T10:09:25-05:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>http://localhost:4000/page3/</loc>
+    <loc>matachingames.github.io/games/</loc>
     
-      <lastmod>2022-02-13T10:07:15-05:00</lastmod>
+      <lastmod>2022-02-13T10:09:25-05:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
   </url>
   
   <url>
-    <loc>http://localhost:4000/page4/</loc>
+    <loc>matachingames.github.io/</loc>
     
-      <lastmod>2022-02-13T10:07:15-05:00</lastmod>
+      <lastmod>2022-02-13T10:09:25-05:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>matachingames.github.io/sitemap.xml</loc>
+    
+      <lastmod>2022-02-13T10:09:25-05:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>matachingames.github.io/styles.css</loc>
+    
+      <lastmod>2022-02-13T10:09:25-05:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>matachingames.github.io/tags/</loc>
+    
+      <lastmod>2022-02-13T10:09:25-05:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>matachingames.github.io/page2/</loc>
+    
+      <lastmod>2022-02-13T10:09:25-05:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>matachingames.github.io/page3/</loc>
+    
+      <lastmod>2022-02-13T10:09:25-05:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+  <url>
+    <loc>matachingames.github.io/page4/</loc>
+    
+      <lastmod>2022-02-13T10:09:25-05:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
